@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dynamomedia",
+  "private_key_id": "857085f88efb3d0b5405f685e34ddf0d7dfadaa2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6rAxPbmS5xCVk\nfZXvP+Ci1Ir+Zer9ozsShtT6K/oSCTwbSkJ+q10qN4U2mdLKRkERr4SHv+08ytQd\nzWzeAieCZQxU+GVsAbO//W4am1YsPnW0VQXM/CDDvRvbyaZjsnhyZWltWzskh3pG\nDnxgF8aTyvf+PG+YSW7aJ4UpQxJ37qbQJiYgZJq04Y5FG+aq1LL6cf/8I/0BJvyx\nFeDEdlbDPi0sZa09uYgy/DAC3KlmCx1akJUUnoGC5Of5Hf0bmaFwcnbe8UppnZ7c\nIB74MNFSVqCB1GO2hs/9Bog8ms0NKhf0PBTdaWl3IJNUMFSakRN5Msl5KSgkja5s\nXSHELeRRAgMBAAECggEABuA7e9mHIEiXUAJIOY3SymylygUbCMiwblhFFAn2ph9s\n9Vxg4qWRQvLUl1RHLWg1EV+ztARfyrN16LseXXca2XS7ZY3Yvoe5hULigVxjajHK\nyB+xnQFUe6FFm2zsEhQK17vgjESmAwxydo4mCqwVhnAdfmHfgm6CBMsb3o836O7z\nU6/dBcf1vK3M8tAGioSsS/ST2C+F6HiIN5z0rJgGR81XjTB75l0ZjVqtnP/ov8/4\ntJlsAiRWpK5z0k2EKT+qY9bCHwfVv9Aul9XMBItTRubKXKdIy5WH7iMYqPTwK++9\ngOs45EJ4Rz0agtogXKW8oWMC3m4Bn6gVHKvWNsKcAQKBgQDrou6Co6HE+55VZhKg\nhudvVtqUGPdu58Vfbhv+jTGsRnpbiPeOkmSczSBtcM8veK81aSoLao5dLtJ+7fas\nfs5GV9ew2Yz0lM4QSurlhh7rzAryafMUTKmwX4P/72x4lC73NcoPBS42wwAnJnXU\nMVc5+CdgofLw0TjccQXaAmAm4QKBgQDKzdwmY2rdtzDPLq5acaMn//kBwid0b6hh\npbBBfqum5m3Gw+CJQ4K9v8NEMgYUXNhZ/Xn8dF2vkUBhwJDjud6x5V4eRoKVEsAH\n4mY79F3YkAt+N/GzN/yQspxS2P6zZh0fZsXSJe0W8y9Lu42e3u3IoRvtCSx0O5uU\nLpFM/wMbcQKBgFSoszyogaR+KoLQK30VOu1brShsV+m2x8jjjJdGL0SQBcIBUcAd\nhJx5bl8jmqyZlYmBASQc4o1EF0iXQnrzDDVltg7J+sSc+fQMlpxkNZPOOVijDDyM\n1qKRjqFTagtgYgdbgf8ng1UVdmaagNb96zLen3cueFRhNyasTMfo9pbBAoGBAKuX\nBf/M+ixhxQBnBMotf9hmMa8VMQDJQHRuFfU0UdPC/3q/XImG/2XAjFx03sP30m5B\nkybQ5juX8BtFLNIg/5UQ9lMzYWT0GloRamKr3YNQTQkcGHqEkkNze+R1CPuNGHLr\nJ9EombNjSs8O/0I+aH3qIpCpxF0L2hTEWdgFpAFhAoGBAK+QHRxBwB4CQd6JRcEu\n2Awtqspr/psYuTApDG43c6422aGt3esg1cd0UdUDoD5JcGy1WjS/Q0Q4VDv39mOm\nAdJFrh4rfUgjupPNWKP6IRUczB7+pHA1cmzav51Us3vUJg7hn5cuVmOEuqPQ3oFL\nam+jPgmvCnHph74PgCmGgCsR\n-----END PRIVATE KEY-----\n",
+  "client_email": "dynamo-media@dynamomedia.iam.gserviceaccount.com",
+  "client_id": "104695452526735809325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dynamo-media%40dynamomedia.iam.gserviceaccount.com"
+}
